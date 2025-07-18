@@ -1,4 +1,4 @@
-# 📦 Microcontroladores PIC – Descripción General
+# 📦 Microcontroladores PIC 
 
 ## 🧠 ¿Qué son los microcontroladores PIC?
 
