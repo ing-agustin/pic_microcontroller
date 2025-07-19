@@ -4,6 +4,16 @@
 
 Los **microcontroladores PIC** (Peripheral Interface Controller) son una familia de microcontroladores. Son dispositivos electrónicos programables que integran en un solo chip una **CPU**, **memoria**, **periféricos**, **temporizadores**, **convertidores A/D** y **puertos de entrada/salida**, lo que los hace ideales para controlar procesos electrónicos embebidos.
 
+# 📄 Archivos 
+
+## 📁 Fundamentals
+
+Esta carpeta contiene **códigos fundamentales en ensamblador** para trabajar con **microcontroladores PIC**.
+
+
+
+
+
 ## 📜 Descripción general - archivo conf.inc
 
 Este archivo en ensamblador para el **PIC16F84A** tiene como objetivo principal gestionar interrupciones y almacenar datos en memoria. A continuación, se resumen sus funcionalidades clave:
