@@ -9,9 +9,9 @@ Esta carpeta contiene **códigos fundamentales en ensamblador** para trabajar co
 
 ## 🧪 Archivos ASM_PIC
 
-  1. ** Operaciones aritmeticas y logicas**
-  2. ** Manipulación de la memoria utilizando el direccionamiento indirecto**
-  3. ** Plantilla interrupciones PIC**
+  1. **Operaciones aritmeticas y logicas**
+  2. **Manipulación de la memoria utilizando el direccionamiento indirecto**
+  3. **Plantilla interrupciones PIC**
 
 
 ## 📜 Descripción general - archivo conf.inc
