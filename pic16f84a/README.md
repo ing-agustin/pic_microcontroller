@@ -13,6 +13,7 @@ Esta carpeta contiene **códigos fundamentales en ensamblador** para trabajar co
   2. **Manipulación de la memoria utilizando el direccionamiento indirecto**
   3. **Plantilla interrupciones PIC**
   4. **Manipulación Timer** - Contar en **50mSeg**
+  5. **Escritura EEPROM**
 
 
 ## 📜 Descripción general - archivo conf.inc
